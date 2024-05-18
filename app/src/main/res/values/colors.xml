@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="primaryColor">#F44336</color>
+        <color name="primaryDarkColor">#3700B3</color>
+        <color name="primaryTextColor">#FFFFFF</color>
+        <color name="secondaryColor">#03DAC5</color>
+        <color name="secondaryTextColor">#000000</color>
+        <color name="buttonColor">#03A9F4</color>
+        <color name="orange">#F44336</color> <!-- Define your desired color -->
+</resources>
